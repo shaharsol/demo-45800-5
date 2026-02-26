@@ -1,0 +1,1 @@
+const initialSum = 0;
